@@ -20,6 +20,6 @@ typing at speeds that scare my own keyboard (monkeytype addict, check the profil
 trying to convince my code reviewers that "it works on my machine" is a valid excuse
 
 
-📫 reach me at divyaraj24204@iiitd.ac.in if you wanna talk code, cricket, or why operating systems hate me personally
+📫 reach me at divyaraj24204@iiitd.ac.in if you wanna talk code, basketball , or why operating systems hate me personally
 
 ⭐ fun fact: i have solved 50+ project euler problems and yet i still cant calculate tip at a restaurant fast
